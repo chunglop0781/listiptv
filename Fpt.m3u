@@ -2,3 +2,5 @@
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/m8WU8BL.png",VTV1 HD
 udp://@225.1.2.249:30120
+#EXTINF:-1 tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",VTV2 HD
+udp://@225.1.2.13:30120
