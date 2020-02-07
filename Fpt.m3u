@@ -4,3 +4,5 @@
 udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-logo="http://xbmc.itvplus.net/LOGO/HDTV/VTV2.png",VTV2 HD
 udp://@225.1.2.13:30120
+#EXTINF:-1 tvg-logo="http://i.imgur.com/OwtIFz1.png",VTV3 HD
+udp://@225.1.2.246:30120
